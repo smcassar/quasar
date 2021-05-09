@@ -49,7 +49,7 @@
     "download-git-repo": "1.1.0",
     "express": "4.16.4",
     "fs-extra": "7.0.1",
-    "handlebars": "4.0.12",
+    "handlebars": "4.7.7",
     "http-proxy-middleware": "0.19.1",
     "inquirer": "6.2.1",
     "metalsmith": "2.3.0",
